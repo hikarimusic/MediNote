@@ -1,0 +1,1159 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Thorax &#8212; MediNote 0.0.1 documentation</title>
+<script>
+  document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+  document.documentElement.dataset.theme = localStorage.getItem("theme") || "light"
+</script>
+
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=92025949c220c2e29695" rel="stylesheet">
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=92025949c220c2e29695" rel="stylesheet">
+
+
+  <link rel="stylesheet"
+    href="../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=92025949c220c2e29695">
+
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Biochemistry" href="../biochemistry/index.html" />
+    <link rel="prev" title="Anatomy" href="index.html" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="docsearch:language" content="en">
+  </head>
+  
+  
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="180" data-default-mode="">
+    <div class="bd-header-announcement container-fluid" id="banner">
+      
+
+    </div>
+
+    
+    <nav class="bd-header navbar navbar-light navbar-expand-lg bg-light fixed-top bd-navbar" id="navbar-main"><div class="bd-header__inner container-xl">
+
+  <div id="navbar-start">
+    
+    
+  
+
+
+<a class="navbar-brand logo" href="../../index.html">
+  
+  
+  
+  
+    <img src="../../_static/banner_light.png" class="logo__image only-light" alt="Logo image">
+    <img src="../../_static/banner_light.png" class="logo__image only-dark" alt="Logo image">
+  
+  
+</a>
+    
+  </div>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapsible" aria-controls="navbar-collapsible" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="fas fa-bars"></span>
+  </button>
+
+  
+  <div id="navbar-collapsible" class="col-lg-9 collapse navbar-collapse">
+    <div id="navbar-center" class="mr-auto">
+      
+      <div class="navbar-center-item">
+        <ul id="navbar-main-elements" class="navbar-nav">
+    <li class="toctree-l1 current active nav-item">
+ <a class="reference internal nav-link" href="../index.html">
+  <strong>
+   Medicine 1
+  </strong>
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../../medicine_2/index.html">
+  <strong>
+   Medicine 2
+  </strong>
+ </a>
+</li>
+
+    
+</ul>
+      </div>
+      
+    </div>
+
+    <div id="navbar-end">
+      
+      <div class="navbar-end-item">
+        <span id="theme-switch" class="btn btn-sm btn-outline-primary navbar-btn rounded-circle">
+    <a class="theme-switch" data-mode="light"><i class="fas fa-sun"></i></a>
+    <a class="theme-switch" data-mode="dark"><i class="far fa-moon"></i></a>
+    <a class="theme-switch" data-mode="auto"><i class="fas fa-adjust"></i></a>
+</span>
+      </div>
+      
+      <div class="navbar-end-item">
+        <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
+        <li class="nav-item">
+          <a class="nav-link" href="https://github.com/hikarimusic/MediNote" rel="noopener" target="_blank" title="GitHub"><span><i class="fab fa-github-square"></i></span>
+            <label class="sr-only">GitHub</label></a>
+        </li>
+      </ul>
+      </div>
+      
+    </div>
+  </div>
+</div>
+    </nav>
+    
+
+    <div class="bd-container container-xl">
+      <div class="bd-container__inner row">
+          
+
+<!-- Only show if we have sidebars configured, else just a small margin  -->
+<div class="bd-sidebar-primary col-12 col-md-3 bd-sidebar">
+  <div class="sidebar-start-items"><form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search the docs ..." aria-label="Search the docs ..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+  <div class="bd-toc-item active">
+    <ul class="current nav bd-sidenav">
+ <li class="toctree-l1 current active has-children">
+  <a class="reference internal" href="index.html">
+   <strong>
+    Anatomy
+   </strong>
+  </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul class="current">
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
+     Thorax
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../biochemistry/index.html">
+   <strong>
+    Biochemistry
+   </strong>
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../embryology/index.html">
+   <strong>
+    Embryology
+   </strong>
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../histology/index.html">
+   <strong>
+    Histology
+   </strong>
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../physiology/index.html">
+   <strong>
+    Physiology
+   </strong>
+  </a>
+ </li>
+</ul>
+
+  </div>
+</nav>
+  </div>
+  <div class="sidebar-end-items">
+  </div>
+</div>
+
+
+          
+
+
+<div class="bd-sidebar-secondary d-none d-xl-block col-xl-2 bd-toc">
+  
+    
+    <div class="toc-item">
+      
+<div class="tocsection onthispage mt-5 pt-1 pb-3">
+    <i class="fas fa-list"></i> On this page
+</div>
+
+<nav id="bd-toc-nav">
+    <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#thoracic-wall">
+   Thoracic Wall
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#skeleton-of-thoracic-wall">
+   Skeleton of Thoracic Wall
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#ribs-costal-cartilages-and-intercostal-spaces">
+     Ribs, Costal Cartilages, and Intercostal Spaces
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#thoracic-vertebrae">
+     Thoracic Vertebrae
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#the-sternum">
+     The Sternum
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#thoracic-apertures">
+   Thoracic Apertures
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#superior-thoracic-aperture">
+     Superior Thoracic Aperture
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#inferior-thoracic-aperture">
+     Inferior Thoracic Aperture
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#joints-of-thoracic-wall">
+   Joints of Thoracic Wall
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#costovertebral-joints">
+     Costovertebral Joints
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#sternocostal-joints">
+     Sternocostal Joints
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#movements-of-thoracic-wall">
+   Movements of Thoracic Wall
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#muscles-of-thoracic-wall">
+   Muscles of Thoracic Wall
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#fascia-of-thoracic-wall">
+   Fascia of Thoracic Wall
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#nerves-of-thoracic-wall">
+   Nerves of Thoracic Wall
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#typical-intercostal-nerves">
+     Typical Intercostal Nerves
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#atypical-intercostal-nerves">
+     Atypical Intercostal Nerves
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#vasculature-of-thoracic-wall">
+   Vasculature of Thoracic Wall
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#arteries-of-thoracic-wall">
+     Arteries of Thoracic Wall
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#veins-of-thoracic-wall">
+     Veins of Thoracic Wall
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#breasts">
+   Breasts
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#female-breasts">
+     Female Breasts
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#vasculature-of-breast">
+     Vasculature of Breast
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#nerves-of-breast">
+     Nerves of Breast
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#surface-anatomy-of-thoracic-wall">
+   Surface Anatomy of Thoracic Wall
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#viscera-of-thoracic-cavity">
+   Viscera of Thoracic Cavity
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#pleurae-lungs-and-tracheobronchial-tree">
+   Pleurae, Lungs, and Tracheobronchial Tree
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#pleurae">
+     Pleurae
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#lungs">
+     Lungs
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#tracheobronchial-tree">
+     Tracheobronchial Tree
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#vasculature-of-lungs-and-pleurae">
+     Vasculature of Lungs and Pleurae
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#nerves-of-lungs-and-pleurae">
+     Nerves of Lungs and Pleurae
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#surface-anatomy-of-pleurae-and-lungs">
+     Surface Anatomy of Pleurae and Lungs
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#overview-of-mediastinum">
+   Overview of Mediastinum
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#pericardium">
+   Pericardium
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#heart">
+   Heart
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#right-atrium">
+     Right Atrium
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#right-ventricle">
+     Right Ventricle
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#left-atrium">
+     Left Atrium
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#left-ventricle">
+     Left Ventricle
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#semilunar-valves">
+     Semilunar Valves
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#vasculature-of-heart">
+     Vasculature of Heart
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#stimulating-conducting-and-regulating-systems-of-heart">
+     Stimulating, Conducting, and Regulating Systems of Heart
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#superior-mediastinum-and-great-vessels">
+   Superior Mediastinum and Great Vessels
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#thymus">
+     Thymus
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#great-vessels">
+     Great Vessels
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#nerves-in-the-superior-mediastinum">
+     Nerves in The Superior Mediastinum
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#trachea">
+     Trachea
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#esophagus">
+     Esophagus
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#posterior-mediastinum">
+   Posterior Mediastinum
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#thoracic-aorta">
+     Thoracic Aorta
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id1">
+     Esophagus
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#thoracic-duct-and-lymphatic-trunks">
+     Thoracic Duct and Lymphatic Trunks
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#vessels-and-lymph-nodes-of-posterior-mediastinum">
+     Vessels and Lymph Nodes of Posterior Mediastinum
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#nerves-of-posterior-mediastinum">
+     Nerves of Posterior Mediastinum
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#anterior-mediastinum">
+   Anterior Mediastinum
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#surface-anatomy-of-heart-and-mediastinal-viscera">
+   Surface Anatomy of Heart and Mediastinal Viscera
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#auscultatory-areas">
+   Auscultatory Areas
+  </a>
+ </li>
+</ul>
+
+</nav>
+    </div>
+    
+    <div class="toc-item">
+      
+    </div>
+    
+  
+</div>
+
+
+          
+          
+          <div class="bd-content col-12 col-md-9 col-xl-7">
+              
+              <article class="bd-article" role="main">
+                
+  <section id="thorax">
+<h1>Thorax<a class="headerlink" href="#thorax" title="Permalink to this heading">#</a></h1>
+<ul class="simple">
+<li><p>Thorax: between neck and abdomen (chest: include pectoral girdle)</p></li>
+<li><p>Thoracic cavity: circumference increasing inferiorly</p></li>
+<li><p>Thoracic cage: protects thoracic and abdominal viscera</p></li>
+<li><p>Divided into: mediastinum, right pulmonary cavity, left pulmonary cavity</p></li>
+<li><p>Containing: lungs, heart, esophagus, (breast)</p></li>
+</ul>
+<section id="thoracic-wall">
+<h2>Thoracic Wall<a class="headerlink" href="#thoracic-wall" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Functions:</p>
+<ul>
+<li><p>protect thoracic and abdominal organs</p></li>
+<li><p>resist negative internal pressures</p></li>
+<li><p>attach and support upper limbs</p></li>
+<li><p>provide attachment of muscles</p></li>
+</ul>
+</li>
+<li><p>Rigid but flexible</p></li>
+</ul>
+</section>
+<section id="skeleton-of-thoracic-wall">
+<h2>Skeleton of Thoracic Wall<a class="headerlink" href="#skeleton-of-thoracic-wall" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Thoracic skeleton: 12 pairs of ribs and costal cartilages, 12 thoracic vertebrae, intervertebral discs, sternum</p></li>
+</ul>
+<section id="ribs-costal-cartilages-and-intercostal-spaces">
+<h3>Ribs, Costal Cartilages, and Intercostal Spaces<a class="headerlink" href="#ribs-costal-cartilages-and-intercostal-spaces" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Ribs: light weight but resilient, contain bone marrow</p>
+<ul>
+<li><p>true ribs: 1st - 7th, directly connect to sternum (through cartilage)</p></li>
+<li><p>false ribs: 8th - 10th, indirectly connect to sternum (through cartilage above)</p></li>
+<li><p>floating ribs: 11th, 12th, does not connect to sternum</p></li>
+</ul>
+</li>
+<li><p>Typical ribs: 3rd - 9th</p>
+<ul>
+<li><p>head: has two facets separated by crest of the head (N-th ribs connects N-th and (N-1)-th vertebra)</p></li>
+<li><p>neck: connects head and body</p></li>
+<li><p>tubercle: articular part: articulates with transverse process, nonarticular part: attaches costotransverse ligament</p></li>
+<li><p>body: curves at costal angle, costal groove protects intercostal nerve and vessels inferiorly</p></li>
+</ul>
+</li>
+<li><p>Atypical ribs: 1st, 2nd, 10th - 12th</p>
+<ul>
+<li><p>1st rib: broadest and shortest, one facet for T1, two grooves superiorly for subclavian vessels, scalene tubercle separates two grooves and attaches anterior scalene muscle</p></li>
+<li><p>2nd rib: two facets for T1 and T2, tuberosity for serratus anterior</p></li>
+<li><p>10th rib: one facet</p></li>
+<li><p>11th &amp; 12th rib: one facet, no neck or tubercle</p></li>
+</ul>
+</li>
+<li><p>Costal cartilages: 1st - 7th connect sternum independently, 8th - 10th connect with superior cartilages and form costal margin, 11th - 12th form caps on rib heads</p></li>
+<li><p>Intercostal spaces: N-th intercostal space is between N-th and (N+1)-th ribs, space below T12 is subcostal space</p></li>
+</ul>
+</section>
+<section id="thoracic-vertebrae">
+<h3>Thoracic Vertebrae<a class="headerlink" href="#thoracic-vertebrae" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Thoracic vertebrae:</p>
+<ul>
+<li><p>bilateral costal facets (demifacets) on vertebral bodies superiorly and inferiorly for heads of ribs</p></li>
+<li><p>costal facets on transverse processed for tubercles for ribs</p></li>
+<li><p>long spinous processes</p></li>
+</ul>
+</li>
+<li><p>Typical thoracic vertebrae: paired demifacets superiorly and inferiorly</p></li>
+<li><p>Atypical thoracic vertebrae:</p>
+<ul>
+<li><p>T1: superior costal facets are not demifacet</p></li>
+<li><p>T10 - T12: only one pair of costal facets</p></li>
+</ul>
+</li>
+<li><p>Spinous process: long and slope inferiorly, protects spinal canal</p></li>
+<li><p>Articular processes:</p>
+<ul>
+<li><p>superior articular processes face posteriorly and slightly laterally</p></li>
+<li><p>inferior articular processes face anteriorly and slightly medially</p></li>
+<li><p>bilateral joint planes permit small rotation</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="the-sternum">
+<h3>The Sternum<a class="headerlink" href="#the-sternum" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Protects mediastinal viscera (heart)</p></li>
+<li><p>Consists of manubrium, body, and xiphoid process, connected by cartilaginous joints and ossify during adulthood</p></li>
+<li><p>Manubrium: jugular notch, clavicular notch, synchondrosis of the first rib, manubriosternal joint (sternal angle)</p></li>
+<li><p>Body of the sternum: T5 - T9, costal notches, transverse ridges, fused by 4 sternebrae</p></li>
+<li><p>Xiphoid process: T10, xiphisternal joint, infrasternal angle, superior limit of liver, inferior border of heart</p></li>
+</ul>
+</section>
+</section>
+<section id="thoracic-apertures">
+<h2>Thoracic Apertures<a class="headerlink" href="#thoracic-apertures" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Smaller superior opening: communicates with neck and upper limbs</p></li>
+<li><p>Larger inferior opening: provides origin of diaphragm</p></li>
+</ul>
+<section id="superior-thoracic-aperture">
+<h3>Superior Thoracic Aperture<a class="headerlink" href="#superior-thoracic-aperture" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Bounded: T1, 1st ribs and costal cartilages, superior border of manubrium</p></li>
+<li><p>Pass: trachea, esophagus, nerves, vessels</p></li>
+</ul>
+</section>
+<section id="inferior-thoracic-aperture">
+<h3>Inferior Thoracic Aperture<a class="headerlink" href="#inferior-thoracic-aperture" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Bounded: T12, 11th &amp; 12th ribs, costal margin (7th - 10th costal cartilages), xiphisternal joint</p></li>
+<li><p>Diaphragm:</p>
+<ul>
+<li><p>separates thoracic and abdominal cavities</p></li>
+<li><p>esophagus and inferior vena cava: pass through openings on diaphragm</p></li>
+<li><p>aorta: pass posterior to diaphragm</p></li>
+</ul>
+</li>
+<li><p>Diaphragm rises to T4, so liver, spleen, and stomach lie superior to inferior thoracic aperture</p></li>
+</ul>
+</section>
+</section>
+<section id="joints-of-thoracic-wall">
+<h2>Joints of Thoracic Wall<a class="headerlink" href="#joints-of-thoracic-wall" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Movements of individual joints are small but crucial for respiration</p></li>
+</ul>
+<section id="costovertebral-joints">
+<h3>Costovertebral Joints<a class="headerlink" href="#costovertebral-joints" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Joints of heads of ribs:</p>
+<ul>
+<li><p>head of N-th rib articulate with superior costal facet of TN, inferior costal facet of T(N-1), and IV disc between them</p></li>
+<li><p>intra-articular ligament of head of rib: connects crest of head and IV disc</p></li>
+<li><p>radiate ligament of head of rib: from heads of ribs to bodies of vertebrae</p></li>
+</ul>
+</li>
+<li><p>Costotranscerse joints:</p>
+<ul>
+<li><p>costotransverse ligament: from neck of rib to transverse process</p></li>
+<li><p>lateral costotransverse ligament: from tubercle of rib to tip of transverse process</p></li>
+<li><p>suprior costotransverse ligament: from neck of rib to transverse process superior to it</p></li>
+<li><p>Allow rotation (1st - 6th) and gliding (7th - 10th)</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="sternocostal-joints">
+<h3>Sternocostal Joints<a class="headerlink" href="#sternocostal-joints" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>1st: synchondrosis of the 1st rib, 2nd - 7th: synovial joints with radiate sternocostal ligaments</p></li>
+</ul>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Joint</p></th>
+<th class="head"><p>Types</p></th>
+<th class="head"><p>Articulation</p></th>
+<th class="head"><p>Ligaments</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Intervertebral</p></td>
+<td><p>Cartilaginous
+(symphysis)</p></td>
+<td><ul class="simple">
+<li><p>Vertebral body</p></li>
+<li><p>Vertebral body</p></li>
+</ul>
+</td>
+<td><ul class="simple">
+<li><p>Anterior longitudinal</p></li>
+<li><p>Posterior longitudinal</p></li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><p>Costovertebral
+(joints of head of rib)</p></td>
+<td><p>Synovial
+(plane)</p></td>
+<td><ul class="simple">
+<li><p>Head of rib</p></li>
+<li><p>Vertebral bodies and IV disc</p></li>
+</ul>
+</td>
+<td><ul class="simple">
+<li><p>Radiate</p></li>
+<li><p>Intra-articular</p></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><p>Costovertebral
+(costotransverse)</p></td>
+<td><p>Synovial
+(plane)</p></td>
+<td><ul class="simple">
+<li><p>Tubercle of rib</p></li>
+<li><p>Transverse process</p></li>
+</ul>
+</td>
+<td><ul class="simple">
+<li><p>Costotransverse</p></li>
+<li><p>Lateral costotransverse</p></li>
+<li><p>Superior costotransverse</p></li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><p>Costochondral</p></td>
+<td><p>Cartilaginous
+(synchondrosis)</p></td>
+<td><ul class="simple">
+<li><p>Rib</p></li>
+<li><p>Costal cartilages</p></li>
+</ul>
+</td>
+<td><ul class="simple">
+<li><p>Periosteum</p></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><p>Interchondral</p></td>
+<td><p>Synovial
+(plane)</p></td>
+<td><ul class="simple">
+<li><p>Costal cartilages</p></li>
+<li><p>Costal cartilages</p></li>
+</ul>
+</td>
+<td><ul class="simple">
+<li><p>Interchondral</p></li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><p>Sternocostal</p></td>
+<td><p>1st: cartilaginous
+(synchondrosis) /
+2nd-7th: synovial
+(plane)</p></td>
+<td><ul class="simple">
+<li><p>Sternum</p></li>
+<li><p>Costal cartilages</p></li>
+</ul>
+</td>
+<td><ul class="simple">
+<li><p>Anterior radiate sternocostal</p></li>
+<li><p>Posterior radiate sternocostal</p></li>
+<li><p>Intra-articular</p></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><p>Sternoclavicular</p></td>
+<td><p>Synovial
+(saddle)</p></td>
+<td><ul class="simple">
+<li><p>Manubrium &amp; 1st costal cartilages</p></li>
+<li><p>Clavicle</p></li>
+</ul>
+</td>
+<td><ul class="simple">
+<li><p>Anterior sternoclavicular</p></li>
+<li><p>Posterior sternoclavicular</p></li>
+<li><p>Costoclavicular</p></li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><p>Manubriosternal</p></td>
+<td><p>Cartilaginous
+(symphysis)</p></td>
+<td><ul class="simple">
+<li><p>Manubrium</p></li>
+<li><p>Body of sternum</p></li>
+</ul>
+</td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Xiphisternal</p></td>
+<td><p>Cartilaginous
+(synchondrosis)</p></td>
+<td><ul class="simple">
+<li><p>Xiphoid process</p></li>
+<li><p>Body of sternum</p></li>
+</ul>
+</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="movements-of-thoracic-wall">
+<h2>Movements of Thoracic Wall<a class="headerlink" href="#movements-of-thoracic-wall" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Movements of thoracic wall &gt; volume and pressure changes &gt; inspiration and expiration</p></li>
+<li><p>Vertical dimension: increase during inspiration (diaphragm descends)</p></li>
+<li><p>AP dimension: increase considerably during inspiration (intercostal muscles contract, upper ribs movement)</p></li>
+<li><p>Trans dimension: increase slightly during inspiration (intercostal muscles contract, lower ribs movement)</p></li>
+</ul>
+<div class="admonition-clinical admonition">
+<p class="admonition-title">Clinical</p>
+<p><strong>Chest pain</strong>: may result from pulmonary, cardiac, intestinal, gallbladder or musculoskeletal disorders,
+crucial to discriminant between serious conditions and minor causes,
+heart attack presents crushing substernal pain that does not disappear with rest</p>
+<p><strong>Rib fractures</strong>: 1st rib rarely fractured but when broken may injure brachial plexus and subclavian vessels,
+middle ribs most commonly fractured and may injure lung or spleen, lower ribs fractures may result in diaphragmatic hernia,
+rib fractures are painful</p>
+<p><strong>Flail chest</strong>: multiple rib fractures allows a segment of thoracic wall to move freely and paradoxically,
+is extremely painful and impairs ventilation</p>
+<p><strong>Thoracotomy, intercostal space incisions, and rib excision</strong>: anterior thoracotomy makes H-shapes cuts through costal cartilages,
+posterior thoracotomy entry through lateral approach of 5th-7th intercostal spaces,
+rib retraction allows procedures through a single intercostal space,
+rib excision provides better access for example pneumonectomy</p>
+<p><strong>Supernumerary ribs</strong>: cervical ribs are relatively common and may interfere neurovascular structures exiting superior thoracic aperture,
+lumbar ribs are less common</p>
+<p><strong>Protective function and aging of costal cartilages</strong>: costal cartilages provide resilience to prevent sternum and ribs fractures,
+are elastic in children and undergo calcification in the elderly</p>
+<p><strong>Ossified xiphoid process</strong>: ossified xiphoid process may appear as hard lump is epigastric fossa</p>
+<p><strong>Sternal fractures</strong>: not common and usually comminuted without displacement, may cause heart or lung injuries</p>
+<p><strong>Median sternotomy</strong>: sternum is divided in the median plane and retracted to gain access to the mediastinum</p>
+<p><strong>Sternal Biopsy</strong>: sternal body is often used for bone marrow needle biopsy,
+obtain specimen for transplantation or detection of metastatic specimens</p>
+<p><strong>Sternal Anomalies</strong>: complete sternal cleft is uncommon and through which heart may protrude, sternal foramen is not clinically significant,
+pectus excavatum (funnel chest) is receding sternum, pectus carinatum (pigeon breast) is projecting sternum,
+xiphoid process is commonly perforated in elderly persons and not clinically significant</p>
+<p><strong>Thoracic outlet syndrome</strong>: arteries and nerves emerging from thorax are affected by obstructions of superior thoracic aperture,
+manifestations involve upper limb</p>
+<p><strong>Dislocation of ribs</strong>: dislocation of sternocostal joint or interchondral joint common in body contact sports,
+cause severe pain and lump-like deformity at the site</p>
+<p><strong>Separation of ribs</strong>: dislocation of costochondral junction</p>
+<p><strong>Paralysis of diaphragm</strong>: injury to one phrenic nerve causes paralysis of half of the diaphragm,
+detect radiographically from the paradoxical movement of the paralyzed half</p>
+</div>
+</section>
+<section id="muscles-of-thoracic-wall">
+<h2>Muscles of Thoracic Wall<a class="headerlink" href="#muscles-of-thoracic-wall" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Axio-appendicular muscles extend from thoracic cage to upper limb and act primarily on upper limb</p></li>
+<li><p>Pectoralis major, pectoralis minor, serratus anterior, and scalene muscles are accessory respiratory muscles</p></li>
+<li><p>True muscles of thoracic wall: serratus posterior, levatores costarum, intercostal, subcostal, transversus thoracis</p></li>
+<li><p>Serratus posterior muscles: serratus posterior superior elevates upper ribs, serratus posterior inferior depresses lower ribs, may not be primarily motor but have proprioceptive function</p></li>
+<li><p>Levatores costarum muscles: elevate ribs</p></li>
+<li><p>Intercostal muscles: occupy intercostal spaces, external intercostals &gt; internal intercostals &gt; intercostal vessels and nerves &gt; innermost intercostals</p>
+<ul>
+<li><p>External intercostal muscles: runs infero-anteriorly from tubercles of ribs to superior borders of rib below,
+anteriorly replaced by external intercostal membranes,
+continuous with external oblique muscles, active during inspiration</p></li>
+<li><p>Internal intercostal muscles: run infero-posteriorly from costal grooves of ribs to superior borders of rib below,
+posteriorly replaced by internal intercostal membranes,
+continuous with internal oblique muscles, active during expiration (especially interosseous portions)</p></li>
+<li><p>Innermost intercostal muscles: similar to internal intercostals</p></li>
+</ul>
+</li>
+<li><p>Subcostal muscles: from internal surface of angle of rib to internal surface of second or third rib inferior to it</p></li>
+<li><p>Transversus thoracis muscles: radiate superolaterally from posterior aspect of inferior sternum, continuous with transversus abdominis</p></li>
+<li><p>Diaphragm is the primary muscle of inspiration, intercostal muscles is to support by resisting paradoxical movement</p></li>
+<li><p>Muscles fibers approximating slope of ribs rotates ribs superiorly, fibers perpendicular to slope of ribs rotates ribs inferiorly</p></li>
+</ul>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Muscle</p></th>
+<th class="head"><p>Superior Attachment</p></th>
+<th class="head"><p>Inferior Attachment</p></th>
+<th class="head"><p>Innervation</p></th>
+<th class="head"><p>Main Action</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Serratus posterior superior</p></td>
+<td><p>Nuchal ligament,
+spinous process of C7-T3</p></td>
+<td><p>Superior borders of 2nd-4th ribs</p></td>
+<td><p>2nd-5th intercostal nerves</p></td>
+<td><p>Proprioception
+(elevate ribs)</p></td>
+</tr>
+<tr class="row-odd"><td><p>Serratus posterior inferior</p></td>
+<td><p>Spinous process of T11-L2</p></td>
+<td><p>Inferior borders of 8th-12th ribs</p></td>
+<td><p>T9-T12 spinal nerves</p></td>
+<td><p>Proprioception
+(depress ribs)</p></td>
+</tr>
+<tr class="row-even"><td><p>Levator costarum</p></td>
+<td><p>Transverse process</p></td>
+<td><p>Subjacent ribs</p></td>
+<td><p>C8-T11 spinal nerves</p></td>
+<td><p>Elevate ribs</p></td>
+</tr>
+<tr class="row-odd"><td><p>External intercostal</p></td>
+<td><p>Inferior border of ribs</p></td>
+<td><p>Superior border of ribs below</p></td>
+<td><p>Intercostal nerve</p></td>
+<td><p>Elevate ribs</p></td>
+</tr>
+<tr class="row-even"><td><p>Internal intercostal</p></td>
+<td><p>Inferior border of ribs</p></td>
+<td><p>Superior border of ribs below</p></td>
+<td><p>Intercostal nerve</p></td>
+<td><p>Depress ribs (interosseous part) /
+Elevates ribs (interchondral part)</p></td>
+</tr>
+<tr class="row-odd"><td><p>Innermost intercostal</p></td>
+<td><p>Inferior border of ribs</p></td>
+<td><p>Superior border of ribs below</p></td>
+<td><p>Intercostal nerve</p></td>
+<td><p>Similar with internal intercostals</p></td>
+</tr>
+<tr class="row-even"><td><p>Subcostal</p></td>
+<td><p>Internal surface of lower ribs</p></td>
+<td><p>2nd or 3rd ribs below</p></td>
+<td><p>Intercostal nerve</p></td>
+<td><p>Similar with internal intercostals</p></td>
+</tr>
+<tr class="row-odd"><td><p>Thansversus thoracis</p></td>
+<td><p>Posterior surface of lower sternum</p></td>
+<td><p>Internal surface of costal cartilages</p></td>
+<td><p>Intercostal nerve</p></td>
+<td><p>Depress ribs</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="fascia-of-thoracic-wall">
+<h2>Fascia of Thoracic Wall<a class="headerlink" href="#fascia-of-thoracic-wall" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Pectoral fascia: invests pectoralis major, bed of breast</p></li>
+<li><p>Clavipectoral fascia: invests pectoralis mino</p></li>
+<li><p>Endothoracic fascia: attaches costal parietal pleura to thoracic wall</p></li>
+</ul>
+</section>
+<section id="nerves-of-thoracic-wall">
+<h2>Nerves of Thoracic Wall<a class="headerlink" href="#nerves-of-thoracic-wall" title="Permalink to this heading">#</a></h2>
+<section id="typical-intercostal-nerves">
+<h3>Typical Intercostal Nerves<a class="headerlink" href="#typical-intercostal-nerves" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="atypical-intercostal-nerves">
+<h3>Atypical Intercostal Nerves<a class="headerlink" href="#atypical-intercostal-nerves" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
+<section id="vasculature-of-thoracic-wall">
+<h2>Vasculature of Thoracic Wall<a class="headerlink" href="#vasculature-of-thoracic-wall" title="Permalink to this heading">#</a></h2>
+<section id="arteries-of-thoracic-wall">
+<h3>Arteries of Thoracic Wall<a class="headerlink" href="#arteries-of-thoracic-wall" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="veins-of-thoracic-wall">
+<h3>Veins of Thoracic Wall<a class="headerlink" href="#veins-of-thoracic-wall" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
+<section id="breasts">
+<h2>Breasts<a class="headerlink" href="#breasts" title="Permalink to this heading">#</a></h2>
+<section id="female-breasts">
+<h3>Female Breasts<a class="headerlink" href="#female-breasts" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="vasculature-of-breast">
+<h3>Vasculature of Breast<a class="headerlink" href="#vasculature-of-breast" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="nerves-of-breast">
+<h3>Nerves of Breast<a class="headerlink" href="#nerves-of-breast" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
+<section id="surface-anatomy-of-thoracic-wall">
+<h2>Surface Anatomy of Thoracic Wall<a class="headerlink" href="#surface-anatomy-of-thoracic-wall" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="viscera-of-thoracic-cavity">
+<h2>Viscera of Thoracic Cavity<a class="headerlink" href="#viscera-of-thoracic-cavity" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="pleurae-lungs-and-tracheobronchial-tree">
+<h2>Pleurae, Lungs, and Tracheobronchial Tree<a class="headerlink" href="#pleurae-lungs-and-tracheobronchial-tree" title="Permalink to this heading">#</a></h2>
+<section id="pleurae">
+<h3>Pleurae<a class="headerlink" href="#pleurae" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="lungs">
+<h3>Lungs<a class="headerlink" href="#lungs" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="tracheobronchial-tree">
+<h3>Tracheobronchial Tree<a class="headerlink" href="#tracheobronchial-tree" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="vasculature-of-lungs-and-pleurae">
+<h3>Vasculature of Lungs and Pleurae<a class="headerlink" href="#vasculature-of-lungs-and-pleurae" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="nerves-of-lungs-and-pleurae">
+<h3>Nerves of Lungs and Pleurae<a class="headerlink" href="#nerves-of-lungs-and-pleurae" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="surface-anatomy-of-pleurae-and-lungs">
+<h3>Surface Anatomy of Pleurae and Lungs<a class="headerlink" href="#surface-anatomy-of-pleurae-and-lungs" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
+<section id="overview-of-mediastinum">
+<h2>Overview of Mediastinum<a class="headerlink" href="#overview-of-mediastinum" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="pericardium">
+<h2>Pericardium<a class="headerlink" href="#pericardium" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="heart">
+<h2>Heart<a class="headerlink" href="#heart" title="Permalink to this heading">#</a></h2>
+<section id="right-atrium">
+<h3>Right Atrium<a class="headerlink" href="#right-atrium" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="right-ventricle">
+<h3>Right Ventricle<a class="headerlink" href="#right-ventricle" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="left-atrium">
+<h3>Left Atrium<a class="headerlink" href="#left-atrium" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="left-ventricle">
+<h3>Left Ventricle<a class="headerlink" href="#left-ventricle" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="semilunar-valves">
+<h3>Semilunar Valves<a class="headerlink" href="#semilunar-valves" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="vasculature-of-heart">
+<h3>Vasculature of Heart<a class="headerlink" href="#vasculature-of-heart" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="stimulating-conducting-and-regulating-systems-of-heart">
+<h3>Stimulating, Conducting, and Regulating Systems of Heart<a class="headerlink" href="#stimulating-conducting-and-regulating-systems-of-heart" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
+<section id="superior-mediastinum-and-great-vessels">
+<h2>Superior Mediastinum and Great Vessels<a class="headerlink" href="#superior-mediastinum-and-great-vessels" title="Permalink to this heading">#</a></h2>
+<section id="thymus">
+<h3>Thymus<a class="headerlink" href="#thymus" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="great-vessels">
+<h3>Great Vessels<a class="headerlink" href="#great-vessels" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="nerves-in-the-superior-mediastinum">
+<h3>Nerves in The Superior Mediastinum<a class="headerlink" href="#nerves-in-the-superior-mediastinum" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="trachea">
+<h3>Trachea<a class="headerlink" href="#trachea" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="esophagus">
+<h3>Esophagus<a class="headerlink" href="#esophagus" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
+<section id="posterior-mediastinum">
+<h2>Posterior Mediastinum<a class="headerlink" href="#posterior-mediastinum" title="Permalink to this heading">#</a></h2>
+<section id="thoracic-aorta">
+<h3>Thoracic Aorta<a class="headerlink" href="#thoracic-aorta" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="id1">
+<h3>Esophagus<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="thoracic-duct-and-lymphatic-trunks">
+<h3>Thoracic Duct and Lymphatic Trunks<a class="headerlink" href="#thoracic-duct-and-lymphatic-trunks" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="vessels-and-lymph-nodes-of-posterior-mediastinum">
+<h3>Vessels and Lymph Nodes of Posterior Mediastinum<a class="headerlink" href="#vessels-and-lymph-nodes-of-posterior-mediastinum" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="nerves-of-posterior-mediastinum">
+<h3>Nerves of Posterior Mediastinum<a class="headerlink" href="#nerves-of-posterior-mediastinum" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
+<section id="anterior-mediastinum">
+<h2>Anterior Mediastinum<a class="headerlink" href="#anterior-mediastinum" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="surface-anatomy-of-heart-and-mediastinal-viscera">
+<h2>Surface Anatomy of Heart and Mediastinal Viscera<a class="headerlink" href="#surface-anatomy-of-heart-and-mediastinal-viscera" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="auscultatory-areas">
+<h2>Auscultatory Areas<a class="headerlink" href="#auscultatory-areas" title="Permalink to this heading">#</a></h2>
+</section>
+</section>
+
+
+              </article>
+              
+
+              
+              <footer class="bd-footer-article">
+                  <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+  <a class='left-prev' id="prev-link" href="index.html" title="previous page">
+      <i class="fas fa-angle-left"></i>
+      <div class="prev-next-info">
+          <p class="prev-next-subtitle">previous</p>
+          <p class="prev-next-title"><strong>Anatomy</strong></p>
+      </div>
+  </a>
+  <a class='right-next' id="next-link" href="../biochemistry/index.html" title="next page">
+  <div class="prev-next-info">
+      <p class="prev-next-subtitle">next</p>
+      <p class="prev-next-title"><strong>Biochemistry</strong></p>
+  </div>
+  <i class="fas fa-angle-right"></i>
+  </a>
+</div>
+              </footer>
+              
+          </div>
+          
+      </div>
+    </div>
+
+  
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../_static/scripts/pydata-sphinx-theme.js?digest=92025949c220c2e29695"></script>
+
+<footer class="bd-footer"><div class="bd-footer__inner container">
+  
+  <div class="footer-item">
+    <p class="copyright">
+    &copy; Copyright 2023, Yeu-Guang Tung.<br>
+</p>
+  </div>
+  
+  <div class="footer-item">
+    <p class="sphinx-version">
+Created using <a href="http://sphinx-doc.org/">Sphinx</a> 5.1.1.<br>
+</p>
+  </div>
+  
+</div>
+</footer>
+  </body>
+</html>

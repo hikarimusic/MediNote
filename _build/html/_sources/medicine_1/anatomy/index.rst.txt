@@ -1,7 +1,9 @@
 **Anatomy**
 ===========
 
-:Textbook: Drake, Richard L., et al. Gray's Anatomy for Students. Elsevier, 2020. 
+:Textbook: Moore, Keith L., et al. Clinically Oriented Anatomy. Wolters Kluwer, 2018. 
 
 .. toctree::
    :maxdepth: 2
+
+   thorax
