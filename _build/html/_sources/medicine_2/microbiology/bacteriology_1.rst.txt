@@ -76,9 +76,10 @@ Cytotoxins
 
 - **Alpha toxin**: bind to cell surface and form pore, lead to osmotic swelling and cell lysis 
 - **Beta toxin**: also called **sphingomyelinase C**, catalyze hydrolysis of membrane phospholipids
-- **Delta toxin**: 
+- **Delta toxin**: has cytolytic activity
+- **Gemma toxin** & **P-V leukocidin**: bicomponent toxins, hemolytic or leukotoxic 
 
-Exfoliative Toxins 
+Exfoliative Toxins  
 ''''''''''''''''''
 
 Enterotoxins 
