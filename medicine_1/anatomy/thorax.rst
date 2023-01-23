@@ -272,7 +272,7 @@ Fascia of Thoracic Wall
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 - Pectoral fascia: invests pectoralis major, bed of breast 
-- Clavipectoral fascia: invests pectoralis mino
+- Clavipectoral fascia: invests pectoralis minor
 - Endothoracic fascia: attaches costal parietal pleura to thoracic wall 
 
 Nerves of Thoracic Wall 

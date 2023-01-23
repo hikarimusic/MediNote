@@ -9,7 +9,7 @@
    general_microbiology
    immune_response
    general_bacteriology
-   gram_positive_bacteria
+   bacteriology_1
    gram_negative_bacteria
    other_bacteria
    general_virology
