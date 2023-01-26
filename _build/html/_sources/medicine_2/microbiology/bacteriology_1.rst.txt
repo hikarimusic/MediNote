@@ -82,11 +82,85 @@ Cytotoxins
 Exfoliative Toxins  
 ''''''''''''''''''
 
+- Two forms ETA & ETB, cause **SSSS** (characterized by exfoliative dermatitis)
+- Are **serine proteases** that split desmosomes, typically no staphylococci nor leukocytes in involved layer (**diagnostic clue**)
+
 Enterotoxins 
 ''''''''''''
+
+- **Staphylococcal enterotoxins**: including enterotoxin A (food poisoning) B C D, heat stable and resistive to gastric enzymes
+- Are **superantigens** causing non-specific T-cell activation and cytokine release 
 
 Toxic Shock Syndrome Toxin-1 
 ''''''''''''''''''''''''''''
 
+- **TSST-1**: Cause TSS (menstruation-associated or nonmenstruation-associated)
+- Is **superantigen** responsible for systemic effects, may cause death by hypovolemic shock leading to multiorgan failure
+
 Staphylococcal Enzymes 
 """"""""""""""""""""""
+
+- **Coagulase** in S. aureus: convert fibrinogen to fibrin, bound form (directly) and free form (reacting with **coagulase-reacting factor**)
+- Staphylococcus also produce **hyaluronidase**, **fibrinolysin**, **lipases**, **nuclease**
+
+Epidemiology
+^^^^^^^^^^^^
+
+- **Ubiquitous**, transient or persistent colonization on skin and **nasopharynx**
+- Transferred through direct contact or contact with fomites 
+- MRSA spread rapidly, complicating the control measures previously established 
+
+Clinical Diseases
+^^^^^^^^^^^^^^^^^
+
+Staphylococcus Aureus 
+"""""""""""""""""""""
+
+- Diseases result from toxin activity or proliferation of organism
+
+Staphylococcal Scalded Skin Syndrome 
+''''''''''''''''''''''''''''''''''''
+
+- SSSS or **Ritter disease**: localized perioral erythema > spread over entire body > cutaneous blisters form > desquamation of epithelium > recover without scarring when antibodies appear
+- Primarily in neonates and young children, mortality low, cause death by secondary infections 
+- **Bullous impetigo**: localized form of SSSS
+
+Staphylococcal Food Poisoning 
+'''''''''''''''''''''''''''''
+
+- **Intoxication** rather than infection, result from contamination of food by human carrier (including asymptomatic colonization), heating cannot inactive the **heat-stable** toxin 
+- Commonly contaminated food: **processed meats**, **custard**-filled **pastries**, **potato salad**, **ice cream**
+- Rapid onset (incubation period 4 hours) and rapid course (less than 24 hours), due to preformed and not further generated toxin 
+- Severe vomiting, diarrhea (watery but non-bloody), abdominal pain, no fever
+- Organisms or toxin can be cultured or tested in food, but diagnosis is primarily based on clinical picture 
+- Treatment for abdominal cramping and diarrhea, antibiotic not used (diseases from toxin not organism)
+- **Enterocolitis**: growth of S. aureus in colon after broad-spectrum antibiotics, diagnosed by excluding Clostridium difficile colitis and detecting S. aureus in stool 
+
+Toxic Shock Syndrome 
+''''''''''''''''''''
+
+
+
+Cutaneous Infections
+''''''''''''''''''''
+
+Bacteremia and Endocarditis 
+'''''''''''''''''''''''''''
+
+Pneumonia and Empyema 
+'''''''''''''''''''''
+
+Osteomyelitis and Septic Arthritis 
+''''''''''''''''''''''''''''''''''
+
+Staphylococcus Epidermidis and Other Coagulase-Negative Staphylococci 
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Catheter and Shunt Infections 
+'''''''''''''''''''''''''''''
+
+Prosthetic Joint Infections 
+'''''''''''''''''''''''''''
+
+Urinary Tract Infections 
+''''''''''''''''''''''''
