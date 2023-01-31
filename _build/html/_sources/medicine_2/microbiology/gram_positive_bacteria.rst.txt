@@ -1,9 +1,0 @@
-Gram-Positive Bacteria
-======================
-
-Staphylococcus and Related Gram-Positive Cocci 
-----------------------------------------------
-
-- Gram-positive cocci: Staphylococcus (catalase positive), Streptococcus & Enterococcus (catalase negative)
-- Staphylococcus: grow and cause disease in various conditions, found on skin and musous membrane of humans, important pathogen
-- Species: **S.aureus** (**coagulase positive**, most virulent, **MRSA**), **S.epidermidis**, **S.lugdunensis**, **S.saprophyticus** (**coagulase negative**, less virulent)

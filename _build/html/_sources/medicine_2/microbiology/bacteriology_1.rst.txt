@@ -238,3 +238,276 @@ Treatment, Prevention, and Control
 - Vancomycin is the current antibiotic of choice for serious infections, but **resistance to vancomycin** have now been found 
 - **Infectoius dose** is generally large, so proper cleansing and disinfectant prevent most infections
 - Spread of staphylococci from person to person (eg. surgical wound infections) is difficult to prevent, proper handwashing and covering of exposed skin surfaces help prevent
+
+Streptococcus and Enterococcus 
+------------------------------
+
+- Gram-positive cocci in pairs or chains, facultative anaerobes, complex nutritional requirement, fermenting carbohydrates, catalase negative
+- Classification schemes:
+
+  - serologic properties: **Lancefield groupings** (A to W)
+  - **hemolytic patterns**: complete (β) hemolysis, incomplete (α) hemolysis, no (γ) hemolysis
+  - **biochemical (physiologic) properties** 
+
+- Major groups:
+
+  - β-hemolytic streptococci: classified by Lancefield grouping (detecting group-specific cell wall antigens by immunologic assays)
+  - α-hemolytic and γ-hemolytic streptococci (**viridans streptococci**): classified by biochemical testing into five groups
+  - enterococci (**group D streptococci**): share **group D cell wall antigen**, including **Enterococcus faecalis**, **E. faecium**, **E. gallinarum**, **E. casseliflavus**
+
+Streptococcus Pyogenes 
+^^^^^^^^^^^^^^^^^^^^^^
+
+- Cause a variety of suppurative (pus formation) and nonsuppurative diseases 
+
+Physiology and Structure 
+""""""""""""""""""""""""
+
+- Cocci in short chains, optimal growth on enriched-blood agar media, small colonies with large zones of β-hemolysis
+- Within peptidoglycan cell wall are **group-specific carbohydrates** (**Lancefield group A antigen**) and type-specific protein (**M protein**)
+- M protein: 
+
+  - anchored in cytoplasmic membrane (highly conserved) and protrude above cell surface (antigenic differences) 
+  - divided into class I (exposd shared antigen, bacteria with it can cause rheumatic fever) and class II (no exposed shared antigen)
+  - classification of S. pyogene based on emm gene encoding M proteins
+
+- Other components in cell wall: **M-like surface proteins**, **lipoteichoic acid** and **F protein** (facilitate binding of host cells)
+- Some strains have hyaluronic acid **capusle** (protecting function)
+
+Pathogenesis and Immunity 
+"""""""""""""""""""""""""
+
+Initial Host-Parasite Interactions
+''''''''''''''''''''''''''''''''''
+
+- **Avoiding opsonization and phagocytosis**: **hyaluromic acid capsule** interferes with phagocytosis, **M proteins** and M-like proteins block activation of complement pathway (reduce and block the binding of C3b), **C5a peptidase** incativate C5a 
+- **Adherence to host cells**: **lipoteichoic acid** (initial adherence), **M protein** and **F protein** (interact with specific receptors)
+- **Invade epithelial cells**: **M protein** and  **F protein**
+
+Toxins and Enzymes 
+''''''''''''''''''
+
+- **Streptococcal pyrogenic exotoxins (Spe)**: include four distinct heat-labile toxins, are superantigens enhancing release of cytokines, responsible for severe streptococcal diseases 
+- **Streptolysin S**: oxygen-stable nonimmunogenic hemolysin (responsible for β-hemolysis), produced in the presence of serum 
+- **Streptolysin O**: oxygen-labile hemolysin related to toxins produced by other bacteria, **antistreptolysin O (ASO) antibodies** are useful for documenting recent infections (**ASO test**), inhibited by cholesterol in skin (cutaneous infections do not develop ASO antibodies)
+- **Streptokinase (A & B)**: lyse blood clots by cleaving plasminogen and facilitate the rapid spread, **antistreptokinase antibodies** are useful markers for infection
+- **DNases (A to D)**: not cytolitic but reduce viscosity of abscess material and facilitate spread, **anti-DNase B test** are important marker for cutaneous infections (no ASO antibodies in cutaneous infections)
+
+Epidemiology 
+""""""""""""
+
+- Commonly cause pharyngitis and pyodrema 
+- Can colonize oropharynx of heathly indivisuals without diseases, colonization is transient and regulated by specific immunity to M protein and competitive organisms 
+- Disease caused by recently acquired strains, including phayngitis (spread through respiratory droplets in crowding) an soft-tissue infections (colonization and introduction into break in skin)
+
+Clinical Diseases 
+"""""""""""""""""
+
+- Suppurative streptococcal disease: pharyngitis, pyoderma, erysipelas, cellulitis, necrotizing fasciitis, streptococcal toxic shock syndrome 
+- Nonsuupurative streptococcal disease: rheumatic fever, acute glomerulonephritis 
+
+Pharyngitis 
+'''''''''''
+
+- Sore throat, fever, erythematous pharynx with exudate, cervical lymphadenopathy, difficult to differentiate from viral pharyngitis 
+- **Scarlet fever**:
+
+  - complication of streptococcal pharyngitis (occurs when bacteria is infected with bacteriophage and produce pryogenic exotoxin)
+  - Diffuse erythematous rash from upper chest to extermities, **circumoral pallor**, **strawberry tongue**, **Pastia lines**, desquamation followed
+
+Pyoderma 
+''''''''
+
+- **Pyoderma (impetigo)**: confined purulent infection of exposed skin, colonization after contact > introduction through break in skin > pustules develop and rupture and crust > systemic sign uncommon > secondary spread common 
+- Seen primarily in young children with poor personal hygiene durign warm moist months, strains of streptococci causing skin infections differ from that of pharyngitis 
+
+Erysipelas 
+''''''''''
+
+- **Erysipelas**: acute infection of skin with localized pain, inflammation, lymph node enlargement, systemic signs, 
+- Commonly in young children or older adults, preceded by skin or respiratory tract infections 
+
+Cellulitis 
+''''''''''
+
+- **Cellulitis**: involves both skin and deeper subcutaneous tissue, with local inflammation and systemic sign
+
+Necrotizing Fasciitis 
+'''''''''''''''''''''
+
+- **Necrotizing fasciitis**: infection in the subcutaneous tissue, spreading along the fascial planes, with extensive destruction of muscle and fat 
+- Introduced from break in skin > from cellulitis to bullae, gangrene and systemic sign > toxicity, multiorgan failure, death are hallmarks, must be treated aggressively with debridement
+
+Streptococcal Toxic Shock Syndrome 
+''''''''''''''''''''''''''''''''''
+
+- **Streptococcal toxic shock syndrome**: From soft-tissue imflammation to shock and organ failure, many patients have bacteremia and necrotizing fasciitis (compared with S. aureus)
+- Increased risk in HIV infection, cancer, diabetes mellitus, heart or pulmonary diseases, varicella zoster virus infection, intravenous drug abuser, and alcohol abuser 
+- Strains are different from that of pharyngitis (with M serotype 1 & 3, mucoid capsule, Spe production)
+
+Other Suppurative Diseases 
+''''''''''''''''''''''''''
+
+
+
+Bacteremia 
+''''''''''
+
+Rheumatic Fever 
+'''''''''''''''
+
+Acute Glomerulonephritis 
+''''''''''''''''''''''''
+
+Laboratory Diagnosis 
+""""""""""""""""""""
+
+Microscopy 
+''''''''''
+
+Antigen Detection 
+'''''''''''''''''
+
+Nucleic Acid-Based Tests 
+''''''''''''''''''''''''
+
+Culture 
+'''''''
+
+Identification 
+''''''''''''''
+
+Antibody Detection 
+''''''''''''''''''
+
+Treatment, Prevention, and Control 
+""""""""""""""""""""""""""""""""""
+
+Streptococcus agalactiae 
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Physiology and Structure 
+""""""""""""""""""""""""
+
+Pathogenesis and Immunity 
+"""""""""""""""""""""""""
+
+Epidemiology 
+""""""""""""
+
+Clinical Diseases 
+"""""""""""""""""
+
+Early-Onset Neonatal Disease
+''''''''''''''''''''''''''''
+
+Late-Onset Neonatal Disease 
+'''''''''''''''''''''''''''
+
+Infections in Pregnant Women 
+''''''''''''''''''''''''''''
+
+Infections in Men and Nonpregnant Women 
+'''''''''''''''''''''''''''''''''''''''
+
+Laboratory Diagnosis 
+""""""""""""""""""""
+
+Antigen Detection 
+'''''''''''''''''
+
+Nucleic Acid-Based Tests 
+''''''''''''''''''''''''
+
+Culture
+'''''''
+
+Identification 
+''''''''''''''
+
+Treatment, Prevention, and Control 
+""""""""""""""""""""""""""""""""""
+
+Other β-Hemolytic Streptococci 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Viridans Streptococci 
+^^^^^^^^^^^^^^^^^^^^^
+
+Streptococcus Pneumoniae 
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Physiology and Structure
+""""""""""""""""""""""""
+
+Pathogenesis and Immunity 
+"""""""""""""""""""""""""
+
+Colonization and Migration 
+''''''''''''''''''''''''''
+
+Tissue Destruction 
+''''''''''''''''''
+
+Phagocytic Survival 
+'''''''''''''''''''
+
+Epidemiology 
+""""""""""""
+
+Clinical Diseases 
+"""""""""""""""""
+
+Pneumonia 
+'''''''''
+
+Sinusitis and Otitis Media 
+''''''''''''''''''''''''''
+
+Meningitis 
+''''''''''
+
+Bacteremia 
+''''''''''
+
+Laboratory Diagnosis 
+""""""""""""""""""""
+
+Microscopy 
+''''''''''
+
+Antigen Detection 
+'''''''''''''''''
+
+Nucleic Acid-Based Tests 
+''''''''''''''''''''''''
+
+Culture
+'''''''
+
+Identification
+''''''''''''''
+
+Treatment, Prevention, and Control 
+''''''''''''''''''''''''''''''''''
+
+Enterococcus 
+^^^^^^^^^^^^
+
+Physiology and Structure 
+""""""""""""""""""""""""
+
+Pahtogenesis and Immunity 
+"""""""""""""""""""""""""
+
+Epidemiology 
+""""""""""""
+
+Clinical Diseases 
+"""""""""""""""""
+
+Laboratory Diagnosis 
+""""""""""""""""""""
+
+Treatment, Prevention, and Control 
+""""""""""""""""""""""""""""""""""

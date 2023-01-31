@@ -8,7 +8,7 @@ Thorax
 - Containing: lungs, heart, esophagus, (breast)
 
 Thoracic Wall
-^^^^^^^^^^^^^
+-------------
 
 - Functions: 
 
@@ -309,13 +309,36 @@ Surface Anatomy of Thoracic Wall
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Viscera of Thoracic Cavity 
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------
+
+- Thoracic cavity is divided into three compartments:
+
+  - Right and left **pulmonary cavities**: contain lungs and pleura 
+  - Central **mediastinum**: between two pulmonary cavities, contain heart, great vessels, trachea, esophagus, thymus 
 
 Pleurae, Lungs, and Tracheobronchial Tree 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+- Each pulmonary cavity is lined with pleural membrane (**pleura**) which also reflects onto and cover lungs
+- Fist in balloon: inner wall is visceral pleura, outer wall is parietal pleura, cavity is pleural cavity, inner and outer walls are continuous at root and form pleural sac
+- Developing lungs invaginate **pericardioperitoneal canals**, the precursors of pleural cavities 
+
 Pleurae 
 """""""
+
+- Each lungs is enclosed in serous **pleural sac** containing visceral pleura and parietal pleura
+- **Pleural cavity**: space between layers of pleura, contain **serous pleural fluid** which lubricates and keeps lung surface in contact with thoracic wall 
+- **Visceral pleura**: cover and adhere to lungs surfaces (including surfaces in fissures), continuous with parietal pleura at **hilum of lung** (where structures of root of lung enters and leave lung)
+- **Parietal pleura**: adhere to thoracic wall & mediastinum & diaphragm, contain costal & mediastinal & diaphragmatic parts
+- **Costal part of parietal pleura**: cover internal surface of thoracic wall, separated from it by endothoracic fascia
+- **Mediastinal part of parietal pleura**: cover lateral aspects of mediastinum 
+- **Diaphragmatic part of parietal pleura**: cover superior surface of diaphragm on each side of mediastinum, connected to diaphragm by **phrenicopleural fascia**
+- **Cervical pleura**: cover apex of lung and form **pleural cupula** extending into neck, reinforced by **suprapleural membrane** (attach to 1st rib and C7 vertebra)
+- Parietal pleura changes direction at lines of pleural reflection, left and right pulmonary cavities are asymmetrical (due to heart)
+- **Sternal lines of pleural reflection**: between costal pleura and mediastinal pleura anteriourly, right line descends in anterior median line to xiphoid process (6th rib), left line descends and turns left (4th rib) and creates bare area of pericardium (contact with anterior wall)
+- **Costal lines of pleural reflection**: between costal pleura and diapgragmatic pleura, passing obliquely across midclavicular line (8th rib) and midaxillary line (10th rib) to the posterior side
+- **Vertebral lines of pleural reflection**: between costal pleura and mediastinal pleura posteriorly, run in paravertebral line from T1 to T12
+- **Costodiaphragmatic recesses**: potential pleural spaces above diaphragm, lungs move into recess during inspiration and retract during expiration (costomediastinal recessess: pleural recesses posterior to sternum)
 
 Lungs 
 """""
