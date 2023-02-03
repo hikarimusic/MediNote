@@ -4,8 +4,8 @@
 .. toctree::
    :maxdepth: 2
 
-   anatomy/index
    biochemistry/index
+   anatomy/index
    embryology/index
    histology/index
    physiology/index

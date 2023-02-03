@@ -343,23 +343,204 @@ Pleurae
 Lungs 
 """""
 
+- **Lungs**: light, spongy and elastic organ of respiration, with 
+
+  - **apex**: superior end ascending into root of neck
+  - **base**: concave surface resting on dome of diaphragm 
+  - two or three lobes: created by one or two fissures 
+  - three surfaces: costal, mediastinal, diaphragmatic 
+  - three borders: anterior, inferior, posterior 
+
+- **Right lung**: divided into three **right lobes** (**superior**, **middle**, **inferior**) by two **fissures** (**oblique**, **horizontal**), larger but shorter than left lung (right dome of diaphragm is higher), anterior border is straight
+- **Left lung**: divided into two **left lobes** (**superior**, **inferior**) by one **fissure** (**oblique**), anterior border has deep **cardiac notch**, anterior and inferior parts of superior lobe indented by heart and leaving **lingula**
+- **Costal surface of lung**: convex, posterior part is called vertebral part of costal surface 
+- **Mediastinal sufrace of lung**: concave, include hilum receiving root of lung, embalmed cadaver has cardiac impression on both lungs, groove for esophagus on right lung, groove for arch of aorta and descending aorta on left lung 
+- **Diaphragmatic surface of lung**: concave, form **base of lung**, cancavity is deeper in right lung (due to liver)
+- **Anterior border of lung**: where costal and mediastinal surfaces meet anteriorly
+- **Inferior border of lung**: circumscribe diaphragmatic surface of lung
+- **Posterior border of lung**: where costal and mediastinal surfaces meet posteriorly 
+- **Roots of lungs**: include bronchi, pulmonary arteries and veins, pulmonary plexuses of nerves, lymphatic vessels
+
+  - pulmonary artery: superiormost on left (superior lobar bronchus may be superiormost on right)
+  - superior and inferior pulmonary veins: anteriormost and inferiormost, respectively 
+  - main bronchus: middle of posterior boundary 
+
+- **Hilum of lung**: wedge-shaped area on mediastinal surface where root of lung passes, lung root enclosed by continuity between parietal and visceral pleura (**pleural sleeve**)
+- **Pulmonary ligament**: continuity between parietal and visceral pleura inferior to root of lung 
+
 Tracheobronchial Tree 
 """""""""""""""""""""
+
+- **Tracheobronchial tree**: sublaryngeal airway
+- Trachea: bifurcate at level of transverse thoracic plane (sternal angle) 
+- **Main bronchi**: enter lungs at hila 
+
+  - **right main bronchus**: wider, shorter, more vertically 
+  - **left main bronchus**: inferior to arch of aort, anterior to esophagus and thoracic aorta 
+
+- **Lobar bronchi**: two on left and three on right, each supplies a lobe 
+- **Segmental bronchi**: supply **bronchopulmonary segments**:
+
+  - largest subdivisions of lobes, pyramidal-shaped segments separated by septa, named by supplying segmental bronchi 
+  - supplied independently by a segmental bronchus and tertiary branch of pulmonary artery, drained by intersegmental parts of pulmonary veins which lie between and drain adjacent segments 
+  - 10 in right lung, 8-10 in left lung, surgically resectable 
+
+- **Bronchioles**: lack cartilage in walls 
+
+  - **conducting bronchioles**: transport air but lack glands or alveoli, end as **terminal bronchioles** 
+  - **respiratory bronchioles**: transport air and exchange gas, give rise to alveolar ducts 
+
+- **Pulmonary alveolus**: basic unit of gas exchange 
+
+  - **alveolar ducts**: airways lined with alveoli 
+  - **alveolar sacs**: clusters of alveoli 
 
 Vasculature of Lungs and Pleurae 
 """"""""""""""""""""""""""""""""
 
+- **Pulmonary arteries**: 
+
+  - right and left pulmonary arteries arise from pulmonary trunk at level of sternal angle
+  - divided into **lobar arteries** (superior, middle [right only], inferior) and **segmental arteries**, paired with bronchi
+
+- Pulmonary veins: 
+
+  - **superior** and **inferior** pulmonary veins on each side (**middle lobe vein** is tributary of right superior pulmonary vein)
+  - coursing between and receiving blood from adjacent bronchopulmonary segments 
+  - veins from visceral pleura and bronchial circulation (except central region) drains into pulmonay veins (veins from parietal pleura drains into systemic veins) 
+
+- **Bronchial arteries**: 
+
+  - **left bronchial arteries**: two, directly from thoracic aorta 
+  - **right bronchial arteries**: one, indirectly from upper posterior intercostal arteries (3rd) or common trunk with left superior bronchial arteries 
+  - supply upper esophagus, branches of bronchi, and visceral pleura (parietal pleura is supplied by arteries supplying thoracic wall)
+
+- **Bronchial veins**:
+
+  - drain part of blood from bronchial arteries (primarily proximal part of lung) 
+  - right bronchial vein drains into azygos vein, left azygos vein drains into accessory hemi-azygos vein or left superior intercostal vein 
+
+- **Pulmonary lymphatic plexuses**: 
+
+  - **subpleural lymphatic plexus**: drain lung parenchyma and visceral pleura, drain into **bronchopulmonary lymph noded** 
+  - **bronchopulmonary lymphatic plexus**: drain structures of root of lung, drain into **pulmonary lymph noded** and then into bronchopulmonary lymph nodes 
+  - bronchopulmonary lymph nodes drain into **superior** and **inferior** tracheobronchial lymph nodes, right lung and left lung (inferior lobe) drain into nodes of right side, left lung (superior lobe) drain into nodes of left side 
+  - tracheobronchial lymph nodes drain into **right** and **left** bronchomediastinal lymph trunks, terminate at venous angles (into right lymphatic duct and thoracic duct)
+  - lymph from parietal pleura drain into lymph node of thoracic walls, some lymph from cervical parietal pleura drain into axullary lymph node  
+
 Nerves of Lungs and Pleurae 
 """""""""""""""""""""""""""
+
+- **Pulmonary plexus**: nerves of lungs and visceral pleura, contain parasympathetic, sympathetic, and visceral afferent fibers
+- Parasympathetic fibers: presynaptic fibers from vagus nerve, synapse with parasympathetic ganglion cells, are bronchioconstrictor, vasodilator, secretory to alveolar glands 
+- Sympathetic fibers: postsynaptic fibers from paravertebral sympathetic ganglion of sympathetic trunks, bronchiodilator, vasoconstrictor, inhibitory to alveolar glands 
+- Visceral afferent fibers: reflexive (associated with reflexes) or nociceptive (conducting pain)
+
+  - reflexive visceral afferent fibers: accompany parasympathetic fibers, convey impulses from mucosa (tactile), muscles (stretch), interalveolar connective tissue (Hering-Breuer reflexes), pulmonary arteries (pressor receptors), pulmonary veins (chemicoreceptors)
+  - nociceptive afferent fibers: accompany sympathetic fibers (from visceral pleura and bronchi) or parasympathetic fibers (from trachea)
+
+- Nerves of parietal pleura: from intercostal nerves (peripheral part) and phrenic nerves (central part)
 
 Surface Anatomy of Pleurae and Lungs 
 """"""""""""""""""""""""""""""""""""
 
+- Cervical pleura and apices of lungs: deep to **supraclavicular fossae**
+- Lines of pleural reflection and borders of lungs:
+
+  - lie between 2th and 4th costal cartilages 
+  - move inferolaterally (left, indented by cardiac notch) and inferiorly (right) to 6th costal crtilage
+  - pass midclavicular line at 8th rib (parietal plerua) and 6th rib (lung)
+  - pass midaxillary line at 10th rib (parietal pleura) and 8th rib (lung)
+  - pass scapular line at 12th rib (parietal pleura) and 10th rib (lung)
+
+- Fissures:
+
+  - oblique fissure: extend from T2 vertebra posteriorly to 6th costal cartilage anteriorly 
+  - horizontal fissure: extend along 4th rib and costal cartilages 
+
+.. admonition:: Clinical
+
+    **Injuries of cervical pleura and apex of lung**: cervical pleura and apex of lung project into neck and may be injured in wounds to base of neck resulting in pneomothorax 
+
+    **Injury to other parts of pleurae**: pleurae descend inferior to costal margin at right infrasternal angle and right & left costovertebral angles (posterior to suprior poles of kidneys), may be injured in surgical procedure 
+
+    **Pulmonary collapse**: rupture of lung surface or penetration of thoracic wall may result in entrance of air into pleural cavity, tension between visceral & parietal pleura break and lung will collapse (one side only since pleural sacs do not communicate), open-chest surgery uses positive-pressure pump
+
+    **Pneumothorax, hydrothorax and hemothorax**: pneomothorax (air in pleural cavity) results from penetrating wound or pulmonary lesion, hydrothorax (fluid in pleural cavity) results from pleural effusion, hemothorax (blood in pleural cavity) result from injury to intercostal or internal thoracic vessel (an air-fluid level will be seen in hemopneumothorax)
+
+    **Thoracentesis**: insert needle into 9th intercostal space (at superior border and high enough to avoid intercostal nerve and vessels and colateral branch) in midaxillary line during expiration (avoid inferior border of lung) with needle angle upward (avoid deep side of costodiaphragmatic recess)
+
+    **Insertion of a chest tube**: incision in 5th or 6th intercostal space in midaxillary line, tube directly superiorly to remove air or inferiorly to remove fluid, connected to underwater drainage system to prevent air from being sucked back 
+
+    **Pleurectomy and pleurodesis**: pleurectomy (excision of part of pleura) and pleurodesis (induce adherence of parietal and visceral pleura) prevent recurring spontaneous secondary atelectasis
+
+    **Thoracoscopy**: diagnostic and therapeutic procedure examining pleural cavity with thoroscope, imcision via 1-3 intercostal spaces 
+
+    **Pleuritis (pleurisy)**: pleuritis causes pleural rub (lung surfaces become rough, detectable during ascultation of lung), pleural adhesion (parietal and visceral layers adhere), sharp pain especially on exertion
+
+    **Variations in lobes of lung**: absent or extra fissures change the number of lobes, most common accessory lobe is azygos lobe in rihgt lung 
+
+    **Appearance of lungs and inhalation of carbon particles and irritants**: lungs are light pink (healthy children, people livng in clean environment) or dark and mottled (smoker, people living in urban), lungs can accumulate considerable amount of carbon without being adversly affected 
+
+    **Auscultation of lungs and percussion of thorax**: auscultation of lungs assesses airflow through tracheobronchial tree, percussion of thorax helps establish whether the underlying tissue is air filled or fluid filled or solid 
+
+    **Aspiration of foreign bodies**: more likely to enter right main bronchus since it is wider shorter and more vertecal, aspiration is a hazard encounterd by dentists
+
+    **Bronchoscopy**: endoscope for inspecting interior of tracheobronchial tree, morphological changes in carina (cartilaginous ridge between main bronchi) are important diagnostic signs (lymph node enlargement distort carina), mucous membrane covering carina is sensitive and associated with cough reflex 
+
+    **Lung resections**: pneumonectomy (remove a whole lung), lobectomy (remove a lobe), or segmentectomy (remove a bronchopulmonary segment)
+
+    **Segmental atelectasis**: blockage a segmental bronchus > air in blocked gradually absorbed > segment collapse 
+
+    **Pulmonary embolism**: obstruction of pulmonary artery by blood clot, causing acute respiratory distress (decrease oxygenation of blood) and acute cor pulmonale (acutely dilated right heart), may lead to pulmonary infarct (an area of necrotic lung tissue)
+
+    **Lymphatic drainage and pleural adhesion**: pleural adhesion may cause anastomose of lymphatic vessels of lungs and parietal pleura, presence of carbon particles in axillary lymph nodes is evidence
+
+    **Hemoptysis**: spitting blood or blood-stained sputum, mostly from bronchial arteries 
+
+    **Bronchogenic carcinoma**: refer to lung cancer, mostly arise in mucosa of large bronchi and produce persistent cough or hemoptysis, metastasize early to thoracic lymph node, invade sinudoid or venule of lung and metastasize hematogenously, supraclavicualr lymph nodes commonly enlarge
+
+    **Lung cancer and mediastinal nerves**: lung cancer may involve phrenic nerve (causing paralysis of hemidiaphragm) or recurrent laryngeal nerve (causing paralysis of vocal fold and hoarseness)
+
+    **Pleural pain**: visceral pleura is insensitive but parietal is extremely sensitive to pain, irritation may produce local or referred pain 
+
+    **Chest x-ray**: PA radiograph or lateral radiograph, clavicles & ribs and some vertebrae are visible, right dome of diaphragm is higher, lungs are relatively lucent, pulmonary arteries are visible in hilar region 
+
 Overview of Mediastinum 
 ^^^^^^^^^^^^^^^^^^^^^^^
 
+- Mediastinum: central compartment of thoracic cavity, from superior thoracic aperture to diaphragm, from sternum and costal cartilages to thoracic vertebrae 
+- Looseness of tissue around mediastinum enable it to accommodate movement and volume & pressure changes 
+- Divided into:
+
+  - **superior mediastinum**: from superior thoracic aperture to **thransverse thoracic plane** (horizontal plane including sternal angle and T4-T5 IV disc)
+  - **inferior mediastinum**: from transverse thoracic plane to diaphragm, divided into anterior mediastinum, **middle mediastinum** (pericardium and its contents), posterior mediastinum 
+
 Pericardium 
 ^^^^^^^^^^^
+
+- Middle mediastinum: includes pericardium, heart, roots of great vessels 
+- **Pericardium**: membrane covering heart and beginning of great vessels, include external fibrous pericardium and internal visceral pericardium 
+- **Fibrous pericardium**: 
+
+  - continuous superiorly with tunica adventitia of great vessels, attached anteriorly to sternum by **sternopericardial ligaments**, bound posteriorly to posterior mediastinum, continuous inferiorly with central tendon of diaphragm (**pericardiacophrenic ligament**)
+  - protects heart against overfilling
+
+- **Serous pericarium**: 
+
+  - include **parietal layer** and **visceral layer**, reflect at great vessels
+  - visceral layer of serous pericardium forms epicardium
+
+- **Pericardial cavity**: potential space between parietal and visceral layers of serour pericardium 
+- **Transverse pericardial sinus**: passage within pericardial cavity, posterior to intrapericardial parts of pulmonary trunk and ascending aorta, anterior to SVC, superior to atria of heart 
+- **Oblique pericardial sinus**: recess in pericardial cavity, posterior to base of heart, bound laterally by pulmonary veins and IVC
+- **Arterial supply of pericardium**: mainly from **pericardiocophrenic artery** that often accompanies phrenic nerve, smaller contribution from musculophrenic, bronchial, esophageal, superior phrenic, coranary artiries 
+- **Venous drainage of pericardium**: pericardiacophrenic veins and azugos venous system 
+- **Nerve supply of pericardium**: phrenic nerves (commonly reffered to ipsilateral supraclavicular region), vagus nerves, sympathetic trunks 
+
+.. admonition:: Clinical
+
+    **Levels of viscea relative to mediastinal divisions**: 
 
 Heart 
 ^^^^^
